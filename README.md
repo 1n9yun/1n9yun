@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+Check my [Blog](https://1n9yun.github.io)
 <!--
 **1n9yun/1n9yun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
